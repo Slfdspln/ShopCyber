@@ -28,6 +28,10 @@ If your README is long, add a table of contents to make it easy for users to fin
 	• Node.js and Express.js
 	• GraphQL
   • MongoDB
+  • Mongoose ODM
+  • Queries
+  • Mutations
+  • JWT authentication
 	• HTML, CSS, and JavaScript
 	• React
   • Heroku 
