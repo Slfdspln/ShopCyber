@@ -8,16 +8,17 @@ function OrderHistory() {
   const { data } = useQuery(QUERY_USER);
 
   console.log('data',data)
+  //console.log('datauser', data.Profile.firstName)
+ 
   let user;
 
   if (data) {
-    user = data.user;
+    user = data.Profile;
   }
 
   return (
     <>
       <div className="container my-1">
-        <h2>Order history</h2>
         <Link to="/"> Back to Products</Link>
 
         {user ? (

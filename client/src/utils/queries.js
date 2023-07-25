@@ -51,7 +51,7 @@ export const QUERY_CATEGORIES = gql`
 
 export const QUERY_USER = gql`
   {
-    user {
+    Profile {
       firstName
       lastName
       orders {
