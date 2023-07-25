@@ -105,9 +105,8 @@ const Cart = () => {
       ) : (
         <Typography variant="h6">
           <span role="img" aria-label="shocked">
-            😱
           </span>
-          You haven't added anything to your cart yet!
+          cart is empty!
         </Typography>
       )}
     </Box>
