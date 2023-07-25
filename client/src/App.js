@@ -13,6 +13,7 @@ import SignUp from "./pages/SignUp.js";
 import Home from "./pages/Home.js";
 import Login from "./pages/Login.js";
 import OrderHistory from "./pages/orderHistory"
+import Detail from "./pages/Detail"
 import Checkout from "./pages/checkout/Checkout.js";
 import Nav from "./components/Nav";
 import { StoreProvider } from './utils/GlobalState';
@@ -53,6 +54,10 @@ function App() {
          <Route path="/Signup" element={<SignUp />} />
          <Route path="/Checkout" element={<Checkout />} />
           <Route path="/OrderHistory" element={<OrderHistory />} /> 
+          <Route 
+                path="/products/:id" 
+                element={<Detail />} 
+              />
         </Routes>
         </StoreProvider>
         </div>
