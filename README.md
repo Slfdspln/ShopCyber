@@ -1,10 +1,9 @@
 # ShopCyber
 
 ## Description
-
-### User Story
-
-### Acceptance Criteria
+Introducing ShopCyber: Your One-Stop Online Shop
+Welcome to ShopCyber, your ultimate destination for all things online shopping! With our sleek and user-friendly interface, you'll have access to a vast array of products at your fingertips. With more being included in the future from trendy fashion to cutting-edge electronics, we've got it all.
+But that's not all - ShopCyber is more than just a shopping platform. We're a community of like-minded individuals who share a passion for technology and innovation. Our goal is to provide a seamless and enjoyable shopping experience, while also fostering a sense of belonging among our users. So what are you waiting for? Join the Cyber Revolution today!
 
 ## Table of Contents
 
@@ -51,8 +50,3 @@
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://choosealicense.com/licenses)
-
-
-## Tests
-
-N/A
