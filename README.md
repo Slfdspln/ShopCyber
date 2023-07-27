@@ -12,6 +12,8 @@ But that's not all - ShopCyber is more than just a shopping platform. We're a co
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+- [Deployed Application](#deployed-application)
+- [Screenshots](#screenshots)
 
 ## Installation
 
@@ -50,3 +52,11 @@ But that's not all - ShopCyber is more than just a shopping platform. We're a co
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://choosealicense.com/licenses)
+
+## Deployed Application
+
+[ShopCyber](https://ecommerce-cyber-16f7a3813a9f.herokuapp.com/)
+
+## Screenshots
+
+![Screenshot](./client/public/images/project-3.png)
